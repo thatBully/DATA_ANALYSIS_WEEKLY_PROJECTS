@@ -5,6 +5,11 @@ Analyze transaction data to understand what drives revenue.
 
 ## Dataset
 UCI Online Retail dataset
+Week 1 data analysis project.
+
+UCI ONLIINE DATASET (https://archive.ics.uci.edu/dataset/352/online+retail)
+
+DOWNLOAD LINK: https://archive.ics.uci.edu/static/public/352/online+retail.zip
 
 ## Key Steps
 - Data cleaning (missing values, duplicates, inconsistencies)
