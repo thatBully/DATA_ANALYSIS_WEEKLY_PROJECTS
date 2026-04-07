@@ -34,3 +34,6 @@ DOWNLOAD LINK: https://archive.ics.uci.edu/static/public/352/online+retail.zip
 - dashboard/ → Excel dashboard
 - sql/ → queries
 - summary/ → conclusions
+
+- Files were too big to be uploaded, so we only ahve the necessary ones
+  
